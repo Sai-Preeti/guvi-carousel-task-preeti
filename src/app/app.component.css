@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(213, 213, 213);
+}
+.container{
+    text-align:center;
+    padding-top:2rem;
+    padding-bottom: 0.8rem;
+}
+img{
+    display:inline-block;
+    min-width:800px;
+    max-height:530px;
+    vertical-align:middle;
+}
+
+.left{
+    position:absolute;
+    top:50%;
+    left:170px;
+}
+
+.right{
+    position:absolute;
+    top:50%;
+    right:180px;
+}
+
+.fas {
+    font-size: 50px;
+    color:black;
+  }
+
+.dots{
+    display: inline;
+    padding: 0.5rem;
+}
+.dot{
+    font-size: 15px;
+    margin-top: 1rem;
+}
